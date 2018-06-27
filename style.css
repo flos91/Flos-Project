@@ -1,0 +1,101 @@
+.body{
+  font-family: Inconsolata;
+  font-size: 14px;
+  margin: 0px !important;
+}
+
+h2{
+font-size: 34px;
+}
+
+h3{
+font-size: 24px;
+}
+
+h4{
+font-size: 14px;
+margin-bottom: -26px;
+}
+
+.logo{
+  height: 50px;
+  width: auto;
+}
+
+header{
+width: 50vw;
+height: 8vh;
+position: fixed;
+}
+
+.container{
+  display: flex;
+  width: 100vw;
+}
+
+.col1{
+  float: left;
+  width: 50%;
+  height: 92vh;
+  position: fixed;
+  margin-top: 8vh;
+}
+
+.main-heading{
+  padding-top: 32vh;
+  padding-left: 20%;
+}
+.heading-small{
+  font-size: 30px;
+}
+.heading-large{
+  font-size: 60px;
+  margin-top: -25px;
+}
+.col2{
+  float: left;
+  width: 50%;
+  height: 200vh;
+  margin-left: 50vw;
+  padding: 10px 40px;
+  margin-top: 8vh;
+}
+
+.nav{
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.nav-link{
+  display: inline-block;
+  font-size: 18px;
+  margin: 12px 24px 12px 0px;
+}
+.nav-link-a{
+  color: black;
+}
+
+.content-heading{
+  border-bottom: 1px solid black;
+  margin-bottom: 60px;
+  padding-top: 20px;
+  margin-top: 80px;
+}
+.content-body-section{
+  margin-bottom: 36px;
+}
+
+.photo{
+  width: 100%;
+  height: auto;
+}
+
+.content-body-photo{
+  text-align: right;
+}
+
+.photo-text{
+  color: white;
+  margin-right: 40px;
+  margin-top: -60px;
+}
